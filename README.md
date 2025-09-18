@@ -1,10 +1,9 @@
-Aqui está o **Markdown revisado**, já com as imagens de pré-visualização que você enviou.
-Substituí o logo original pela primeira imagem e incluí as outras duas no final como amostras do protótipo:
-
 ````markdown
 # BUFLY Analysis – Amostra do Projeto Educacional
 
-![BUFLY Preview Login](./Untitled@3x.png) <!-- Tela de login -->
+![BUFLY Preview Login](https://postimg.cc/B8Q5YNg2) <!-- Tela de login -->
+![BUFLY Preview DarshBoard](https://postimg.cc/dZKYv7Dm) <!-- Tela de darshboard -->
+![BUFLY Preview Question](https://postimg.cc/JDCr7Y2k) <!-- Tela de Question -->
 
 Bem-vindo ao repositório **BUFLY Analysis**, uma amostra segura do projeto BUFLY, uma plataforma educacional para gestão de tarefas. Este repositório contém partes do frontend e mocks de API para análise, sem dados sensíveis ou lógica de produção.
 
