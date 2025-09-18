@@ -1,6 +1,10 @@
-# BUFLY Analysis - Amostra do Projeto Educacional
+Aqui está o **Markdown revisado**, já com as imagens de pré-visualização que você enviou.
+Substituí o logo original pela primeira imagem e incluí as outras duas no final como amostras do protótipo:
 
-![BUFLY Logo](https://imagine-public.x.ai/imagine-public/images/0960da45-cf55-4119-a2a5-bb389aaae398.png?cache=1) <!-- Substitua pela URL do logo -->
+````markdown
+# BUFLY Analysis – Amostra do Projeto Educacional
+
+![BUFLY Preview Login](./Untitled@3x.png) <!-- Tela de login -->
 
 Bem-vindo ao repositório **BUFLY Analysis**, uma amostra segura do projeto BUFLY, uma plataforma educacional para gestão de tarefas. Este repositório contém partes do frontend e mocks de API para análise, sem dados sensíveis ou lógica de produção.
 
@@ -37,12 +41,15 @@ Permitir a revisão de componentes do frontend e estrutura de API do BUFLY, foca
    ```bash
    git clone https://github.com/seu-usuario/bufly-analysis.git
    cd bufly-analysis
-   ```
+````
+
 2. Instale dependências:
+
    ```bash
    npm install
    ```
 3. Inicie o servidor:
+
    ```bash
    npm run dev
    ```
@@ -52,9 +59,23 @@ Permitir a revisão de componentes do frontend e estrutura de API do BUFLY, foca
 
 ## 🔒 Segurança
 
-- **Sem Dados Sensíveis**: Chaves e configurações de produção foram removidas.
-- **.gitignore**: Exclui arquivos como `.env` e `node_modules`.
-- **Acesso Restrito**: Use permissões do GitHub para limitar colaboradores.
+* **Sem Dados Sensíveis**: Chaves e configurações de produção foram removidas.
+* **.gitignore**: Exclui arquivos como `.env` e `node_modules`.
+* **Acesso Restrito**: Use permissões do GitHub para limitar colaboradores.
+
+## 🖼️ Pré-visualizações do Protótipo
+
+### Tela de Questão
+
+![Questão](./WhatsApp-Image-2025-09-18-17.24.26-1.jpeg)
+
+### Painel do Professor
+
+![Dashboard](./WhatsApp-Image-2025-09-18-17.24.26.jpeg)
+
+### Tela de Login
+
+![Login](./Untitled@3x.png)
 
 ## 🤝 Contribuições
 
@@ -68,10 +89,15 @@ Reporte ideias em [Issues](https://github.com/seu-usuario/bufly-analysis/issues)
 
 ## 📬 Contato
 
-Desenvolvido por **Francisco Eduardo Linhares** (3º Ano DS A, SENAI/SESI).  
+Desenvolvido por **Francisco Eduardo Linhares** (3º Ano DS A, SENAI/SESI).
 Dúvidas? Abra uma issue.
 
 ---
 
-⭐ **Dê uma estrela se gostou!** ⭐  
+⭐ **Dê uma estrela se gostou!** ⭐
 Licença MIT.
+
+```
+
+Assim, ao visualizar o README no GitHub, as três telas do protótipo aparecerão em sequência com legendas.
+```
