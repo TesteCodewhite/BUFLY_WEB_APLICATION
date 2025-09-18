@@ -1,4 +1,3 @@
-````markdown
 # BUFLY Analysis – Amostra do Projeto Educacional
 
 ![BUFLY Preview Login](https://postimg.cc/B8Q5YNg2) <!-- Tela de login -->
@@ -66,15 +65,15 @@ Permitir a revisão de componentes do frontend e estrutura de API do BUFLY, foca
 
 ### Tela de Questão
 
-![Questão](./WhatsApp-Image-2025-09-18-17.24.26-1.jpeg)
+![Questão](https://postimg.cc/JDCr7Y2k)
 
 ### Painel do Professor
 
-![Dashboard](./WhatsApp-Image-2025-09-18-17.24.26.jpeg)
+![Dashboard](https://postimg.cc/dZKYv7Dm)
 
 ### Tela de Login
 
-![Login](./Untitled@3x.png)
+![Login](https://postimg.cc/B8Q5YNg2)
 
 ## 🤝 Contribuições
 
